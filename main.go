@@ -1,10 +1,9 @@
 package main
 
 import (
-	"mygo/utils/files"
-	"mygo/utils/logs"
-	"mygo/utils/yamls/configs"
-
+	"github.com/cbhan755200839/mygo/utils/files"
+	"github.com/cbhan755200839/mygo/utils/logs"
+	"github.com/cbhan755200839/mygo/utils/yamls/configs"
 	"go.uber.org/zap"
 )
 

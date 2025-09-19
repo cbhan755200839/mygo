@@ -2,9 +2,10 @@ package files
 
 import (
 	"fmt"
-	"mygo/utils/logs"
 	"os"
 	"path/filepath"
+
+	"github.com/cbhan755200839/mygo/utils/logs"
 )
 
 func CreateFile(path string) (err error) {

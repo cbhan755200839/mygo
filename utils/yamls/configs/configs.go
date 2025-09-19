@@ -2,9 +2,9 @@ package configs
 
 import (
 	"encoding/json"
-	"mygo/utils/logs"
-	"mygo/utils/yamls"
 
+	"github.com/cbhan755200839/mygo/utils/logs"
+	"github.com/cbhan755200839/mygo/utils/yamls"
 	"go.uber.org/zap"
 )
 

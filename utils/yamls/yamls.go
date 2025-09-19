@@ -2,9 +2,9 @@ package yamls
 
 import (
 	"encoding/json"
-	"mygo/utils/logs"
 	"os"
 
+	"github.com/cbhan755200839/mygo/utils/logs"
 	"go.uber.org/zap"
 	"gopkg.in/yaml.v3"
 )
