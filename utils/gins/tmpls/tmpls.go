@@ -2,8 +2,8 @@ package tmpls
 
 import (
 	"html/template"
-	"myGoDemo/utils/logs"
 
+	"github.com/cbhan755200839/mygo/utils/logs"
 	"go.uber.org/zap"
 )
 
